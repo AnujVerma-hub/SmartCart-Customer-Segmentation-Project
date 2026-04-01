@@ -36,12 +36,12 @@ This project solves these problems using data-driven clustering techniques.
  Segmented customers into 4 distinct groups
 ## 📊 Customer Segments
 
-| Cluster | Segment Name       | Income Level | Spending Behavior | Family Status        | Web Activity | Purchase Behavior              | Key Insight |
-|--------|-------------------|--------------|------------------|----------------------|-------------|-------------------------------|------------|
-| 0      | Budget Browsers   | Low          | Low              | More children, Partner | High        | Low (Web, Store, Catalog)     | Visits a lot but rarely buys → needs conversion strategies |
-| 1      | Premium Buyers    | High         | High             | Fewer children, Partner | Low         | High (Store & Web)            | High-value customers → focus on retention |
-| 2      | Inactive Visitors | Moderate     | Low              | More children, Alone   | High        | Low (All channels)            | High traffic but low engagement → needs re-targeting |
-| 3      | Engaged Shoppers  | Moderate     | High             | Fewer children, Alone  | High        | High (Store & Web)            | Highly responsive → best segment for upselling |
+| Cluster | Segment Name       | Description | Spending Behavior |
+|--------|-------------------|--------------|------------------|--------|
+| 0      | Budget Browsers   | Low income, low spending, high web visits |      
+| 1      | Premium Buyers    | High income, high purchases, low visits  |     
+| 2      | Inactive Visitors | Low engagement, low purchases     |
+| 3      | Engaged Shoppers  | High response, high purchases     |
 
 > 💡 These segments help businesses design targeted marketing strategies and improve customer conversion rates.
 
@@ -71,6 +71,8 @@ This project solves these problems using data-driven clustering techniques.
 - Integrate with business dashboards
 ## 🙌 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/anuj-verma-298b8a374
+
+
 💻 GitHub: https://github.com/Anujverma-hub
 
 ⭐ If you found this project useful, consider giving it a star!
