@@ -27,6 +27,16 @@ This project solves these problems using data-driven clustering techniques.
   - Scatter plots
   - Correlation heatmaps
   - 3D plots
+
+ - Visuals: 
+ 
+<img width="941" height="632" alt="Screenshot 2026-04-01 164943" src="https://github.com/user-attachments/assets/341aa9ec-1fad-4199-b0bb-0e0376783c75" />
+
+
+
+<img width="875" height="658" alt="Screenshot 2026-04-01 165038" src="https://github.com/user-attachments/assets/4bd357d2-f86d-4c19-86ad-bf6952843b03" />
+
+
 ### 🔹 Feature Engineering
 - Created new meaningful features:
   - Total Spending
