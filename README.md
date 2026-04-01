@@ -36,12 +36,12 @@ This project solves these problems using data-driven clustering techniques.
  Segmented customers into 4 distinct groups
 ## 📊 Customer Segments
 
-| Cluster | Segment Name       | Description | Spending Behavior |
-|--------|-------------------|--------------|------------------|--------|
-| 0      | Budget Browsers   | Low income, low spending, high web visits |      
-| 1      | Premium Buyers    | High income, high purchases, low visits  |     
-| 2      | Inactive Visitors | Low engagement, low purchases     |
-| 3      | Engaged Shoppers  | High response, high purchases     |
+| Cluster | Segment Name        | Description                                      |
+|--------|--------------------|--------------------------------------------------|
+| 0      | Budget Browsers    | Low income, low spending, high web visits        |
+| 1      | Premium Buyers     | High income, high purchases, low visits          |
+| 2      | Inactive Visitors  | Low engagement, low purchases                    |
+| 3      | Engaged Shoppers   | High response, high purchases                    |
 
 > 💡 These segments help businesses design targeted marketing strategies and improve customer conversion rates.
 
