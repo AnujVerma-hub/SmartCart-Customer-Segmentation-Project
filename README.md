@@ -35,16 +35,22 @@ This project solves these problems using data-driven clustering techniques.
 - Applied K-Means Clustering
  Segmented customers into 4 distinct groups
 ## 📊 Customer Segments
-Cluster	Segment Name	Description
-0	Budget Browsers	Low income, low spending, high web visits
-1	Premium Buyers	High income, high purchases, low visits
-2	Inactive Visitors	Low engagement, low purchases
-3	Engaged Shoppers	High response, high purchases
+
+| Cluster | Segment Name       | Income Level | Spending Behavior | Family Status        | Web Activity | Purchase Behavior              | Key Insight |
+|--------|-------------------|--------------|------------------|----------------------|-------------|-------------------------------|------------|
+| 0      | Budget Browsers   | Low          | Low              | More children, Partner | High        | Low (Web, Store, Catalog)     | Visits a lot but rarely buys → needs conversion strategies |
+| 1      | Premium Buyers    | High         | High             | Fewer children, Partner | Low         | High (Store & Web)            | High-value customers → focus on retention |
+| 2      | Inactive Visitors | Moderate     | Low              | More children, Alone   | High        | Low (All channels)            | High traffic but low engagement → needs re-targeting |
+| 3      | Engaged Shoppers  | Moderate     | High             | Fewer children, Alone  | High        | High (Store & Web)            | Highly responsive → best segment for upselling |
+
+> 💡 These segments help businesses design targeted marketing strategies and improve customer conversion rates.
+
+
 ## 💡 Key Insights
-Customers with high web visits but low purchases need targeted conversion strategies
-Premium customers contribute significantly to revenue → require retention focus
-Customers living alone show higher engagement compared to families
-Large families tend to have lower spending patterns
+- Customers with high web visits but low purchases need targeted conversion strategies
+- Premium customers contribute significantly to revenue → require retention focus
+- Customers living alone show higher engagement compared to families
+- Large families tend to have lower spending patterns
 ## 📈 Business Recommendations
 - 🎯 Offer discounts to Budget Browsers to increase conversion
 - 💎 Provide loyalty programs for Premium Buyers
