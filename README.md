@@ -1,11 +1,11 @@
 # 🛒 SmartCart-Customer-Segmentation-Project
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on customer segmentation using data analysis and machine learning techniques.
 The goal is to understand customer behavior and divide them into meaningful clustering groups to enable targeted marketing and business decision-making.
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 Businesses often struggle to understand:
 
@@ -15,19 +15,19 @@ How to optimize marketing strategies?
 
 This project solves these problems using data-driven clustering techniques.
 
-🧠 Approach
-🔹 Data Analysis (EDA)
-Performed in-depth Exploratory Data Analysis
-Analyzed:
-Customer demographics
-Spending behavior
-Purchase patterns
-Used visualizations:
-Histograms
-Scatter plots
-Correlation heatmaps
-3D plots
-🔹 Feature Engineering
+## 🧠 Approach
+### 🔹 Data Analysis (EDA)
+- Performed in-depth Exploratory Data Analysis
+- Analyzed:
+  - Customer demographics
+  - Spending behavior
+  - Purchase patterns
+- Used visualizations:
+  - Histograms
+  - Scatter plots
+  - Correlation heatmaps
+  - 3D plots
+### 🔹 Feature Engineering
 Created new meaningful features:
 Total Spending
 Living Status (Alone / With Family)
